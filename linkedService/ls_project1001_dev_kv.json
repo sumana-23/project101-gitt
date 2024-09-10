@@ -1,0 +1,11 @@
+{
+	"name": "ls_project1001_dev_kv",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://project1001-summu-dev-kv.vault.azure.net/"
+		}
+	}
+}
